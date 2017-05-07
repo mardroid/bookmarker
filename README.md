@@ -7,4 +7,4 @@ Simple demo application for bookmarking webistes with localStorage
 
 ### Usage
 
-Just download and open index.html.
+Just download and open index.html
