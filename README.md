@@ -1,6 +1,6 @@
 # Bookmarker LocalStorage App
 
-Simple demo application for bookmarking webistes with localStorage  
+Simple demo application for bookmarking websites with localStorage  
 
 ### Version
 1.0.0
